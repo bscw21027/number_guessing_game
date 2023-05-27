@@ -25,6 +25,10 @@ The Number Guessing Game is a simple Python program that allows players to test 
   
 - The game will prompt you to enter the range of numbers within which the random number will be generated. Follow the on-screen instructions to play the game and guess the correct number.
 
+# Acknowledgments
+The Number Guessing game is built using the Python programming language.
+The project structure and code organization are inspired by best practices for Python projects.
+
 # Contribution
 Contributions to the Number Guessing Game are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request on the project's GitHub repository.
 
