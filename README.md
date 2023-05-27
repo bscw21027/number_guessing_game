@@ -12,7 +12,6 @@ The Number Guessing Game is a simple Python program that allows players to test 
 # Getting Started
 - To run the Number Guessing Game on your local machine, follow these steps:
 
-# Usage
 - Ensure that you have Python installed on your system. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 
 - Clone this repository or download the source code as a ZIP file and extract it to your desired location.
@@ -20,7 +19,7 @@ The Number Guessing Game is a simple Python program that allows players to test 
 -  Open a terminal or command prompt and navigate to the directory where the game files are located.
 
 - Run the following command to start the game:
-  ```ruby
+  ```python
   python number_guessing_game.py
   ```
   
